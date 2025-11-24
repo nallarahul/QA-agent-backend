@@ -9,4 +9,5 @@ chromadb
 sentence-transformers
 beautifulsoup4
 python-dotenv
+pysqlite3-binary
 langchain-groq
